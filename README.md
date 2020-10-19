@@ -2,6 +2,8 @@
 
 ![Logo Ing](https://fotos.subefotos.com/bfa0edacd915cdc7de8ee4a357071610o.png =100x)
 
+<img src="https://fotos.subefotos.com/bfa0edacd915cdc7de8ee4a357071610o.png" alt="drawing" width="100"/>
+
 ## Ingeniería de datos
 
 Ingresa a Discord y ponte en contácto con nosotros
