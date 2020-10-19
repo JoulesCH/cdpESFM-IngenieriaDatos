@@ -7,7 +7,7 @@ Ingresa a Discord y ponte en contácto con nosotros
 [![Discord](https://img.shields.io/badge/cdpESFM%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.gg/jy6cJVt)
 
 
-Para acceder a la sesiones da click en el siguiente botón:
+Para acceder a la sesiones da click en el botón naranja (te direccionará a un notebook online):
 
 **Sesión 2**:
 
