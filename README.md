@@ -1,4 +1,7 @@
 ![Logo CdP](https://fotos.subefotos.com/2a13aea56c4bf96860ed297b29abc189o.png)
+
+![Logo Ing](https://fotos.subefotos.com/bfa0edacd915cdc7de8ee4a357071610o.png =100x)
+
 ## Ingeniería de datos
 
 Ingresa a Discord y ponte en contácto con nosotros
