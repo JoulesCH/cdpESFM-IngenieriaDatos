@@ -12,7 +12,7 @@ Ingresa a Discord y ponte en contácto con nosotros
 
 Para acceder a la sesiones da click en el botón naranja correspondiente a la sesión (te direccionará a un notebook online)
 
-**Sesión 2**:
+**Sesión 3**:
 
-[![Sesion 1](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://mybinder.org/v2/gh/JoulesCH/cdpESFM-IngenieriaDatos/main?filepath=Clase%20002.2%20EXTRACT%20-%20Lectura%20de%20archivos%20.ipynb)
+[![Sesion 2](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://mybinder.org/v2/gh/JoulesCH/cdpESFM-IngenieriaDatos/master)
 
